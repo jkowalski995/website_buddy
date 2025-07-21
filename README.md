@@ -12,3 +12,4 @@ Website Buddy is a Python script using VirusTotal and Silent Push APIs for perfo
 ## To Do:
 - [ ] A record collection from Silent Push
 - [ ] VirusTotal Relations for IP
+- [ ] Clean the code e.g. make API keys as a global variables
